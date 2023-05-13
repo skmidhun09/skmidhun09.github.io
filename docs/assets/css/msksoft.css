@@ -7215,6 +7215,8 @@ button.bg-light:focus {
 
 .bg-dark {
   background-color: #343a40 !important;
+  padding: 40px 0 40px 0 !important;
+  margin: 40px 0 0 0 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -8980,7 +8982,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 1.5rem !important;
 }
 
 .ml-5,
@@ -11602,7 +11604,7 @@ pre .code {
 }
 
 .section {
-  padding: 80px 0;
+  padding: 80px 0 0 0;
 }
 
 .section.bg-custom-gray {
